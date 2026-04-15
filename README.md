@@ -2,6 +2,9 @@
 
 Name: Raiyan Karim 
 
+The project is a simple Sudoku board generator. It basically makes a finished and solved board
+of Sudoku and then transforms the board shifting and swapping numbers from rows and columns to 
+randomly create a unique board. 
 
 To run the program simply run it through an online compiler or ide like codehs. 
 To run it locally you may will need your own ide and an installation of the java jdk. 
